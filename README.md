@@ -21,12 +21,6 @@ This project is a starting point for a Flutter application that connects to a Pa
 1. In `database_helper.dart`, replace `YOUR_APP_ID_HERE` and `YOUR_CLIENT_KEY_HERE` with your Back4App Application ID and Client Key respectively.
 2. Replace `YOUR_SERVER_URL_HERE` with your Back4App server URL.
 
-```dart
-const String PARSE_APP_ID = 'YOUR_APP_ID_HERE';
-const String PARSE_CLIENT_KEY = 'YOUR_CLIENT_KEY_HERE';
-const String PARSE_SERVER_URL = 'YOUR_SERVER_URL_HERE';
-
-
 Screenshot
 Login page:
 ![image](https://github.com/job000/login_template_app/assets/28447568/ef6c60f0-4ed9-4a40-80ec-2f2a0c92fa8a)
@@ -45,3 +39,11 @@ Message:
 
 Search User:
 ![image](https://github.com/job000/login_template_app/assets/28447568/8f62357d-db91-4757-bf57-08d7670fc639)
+
+```dart
+const String PARSE_APP_ID = 'YOUR_APP_ID_HERE';
+const String PARSE_CLIENT_KEY = 'YOUR_CLIENT_KEY_HERE';
+const String PARSE_SERVER_URL = 'YOUR_SERVER_URL_HERE';
+
+
+
